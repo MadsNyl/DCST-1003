@@ -1,0 +1,13 @@
+a) De tre viktigste standardene for å bygge moderne websider er:
+
+HTML (HyperText Markup Language): HTML er grunnlaget for websider. Det er et markeringsspråk som brukes til å strukturere innholdet på en webside ved å definere elementer som overskrifter, avsnitt, lenker, bilder og mye mer. HTML beskriver den hierarkiske strukturen til en webside.
+
+CSS (Cascading Style Sheets): CSS er et stilarksspråk som brukes til å definere utseendet og layouten til websider. Med CSS kan du endre farger, skrifttyper, størrelser, marger, padding og andre visuelle egenskaper for HTML-elementene. Det gir muligheten til å skille innhold (HTML) fra presentasjon (CSS).
+
+JavaScript: JavaScript er et programmeringsspråk som brukes til å legge til interaktivitet og dynamikk til websider. Med JavaScript kan du opprette funksjoner, håndtere brukerinteraksjon, manipulere dokumentet og hente data fra serveren uten å måtte laste inn hele siden på nytt.
+
+Sammen muliggjør disse tre standardene utviklingen av moderne, responsive og interaktive websider.
+
+b) En programvare for webklient (nettleser) er for eksempel Google Chrome, Mozilla Firefox, Microsoft Edge, eller Safari. Disse nettleserne brukes til å vise websider og tolke HTML, CSS og JavaScript for å gjøre innholdet tilgjengelig for brukere.
+
+En programvare for webtjener kan være Apache HTTP Server, Nginx, Microsoft Internet Information Services (IIS), eller Node.js. Disse programvarene kjører på serveren og håndterer forespørsler fra webklienter (nettlesere) ved å levere nettstedets filer og data til brukerne. De er ansvarlige for å betjene nettstedets ressurser og sørge for at nettstedet er tilgjengelig på nett.
